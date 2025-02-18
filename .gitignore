@@ -1,5 +1,6 @@
 .venv
 .venv_poetry
+.vscode
 .DS_store
 .env
 .ipynb_checkpoints

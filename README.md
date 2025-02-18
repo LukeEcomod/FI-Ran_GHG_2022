@@ -19,7 +19,8 @@ pip install -r requirements.txt
     - [GHG_models_fit_no_st_T_theta.ipynb](GHG_models_fit_no_st_T_theta.ipynb) (Full $\theta$ no $\delta$ ST models)
     - [GHG_models_fit_no_st_T.ipynb](GHG_models_fit_no_st_T.ipynb) (Full no $\delta$ ST models)
 4. Run model comparison [GHG_model_comparison_all.ipynb](GHG_model_comparison_all.ipynb)
-5. Run detailed model comparison for $\theta$ models [GHG_model_comparison_theta.ipynb](GHG_model_comparsin_theta.ipynb)
+5. Run detailed model comparison for $\theta$ models [GHG_model_comparison_theta.ipynb](GHG_model_comparison_theta.ipynb)
 6. Run [create_annual_predictions.ipynb](create_annual_predictions.ipynb) to get model simulations for surface type specific fluxes and annual GHG budget
 7. Visualize the surface type specific fluxes and annual GHG budget [GHG_st_T_response.ipynb](GHG_st_T_response.ipynb)
 8. Calculate annual GHG emission balance [GHG_site_level_annual_flux.ipynb](GHG_site_level_annual_flux.ipynb)
+9. Visualize the measured fluxes [plot_measured_flux_time_series.ipynb](plot_measured_flux_time_series.ipynb)
